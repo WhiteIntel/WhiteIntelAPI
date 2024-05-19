@@ -1,4 +1,4 @@
-# WhiteIntel API
+# WhiteIntel API (BETA VERSION)
 
 Welcome to the WhiteIntel API repository! This repository provides the necessary information and resources to use the WhiteIntel API, which is designed for enterprise-level subscriptions to access data on WhiteIntel.
 
