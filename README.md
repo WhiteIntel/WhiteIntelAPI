@@ -2,6 +2,8 @@
 
 Welcome to the WhiteIntel API repository! This repository provides the necessary information and resources to use the WhiteIntel API, which is designed for enterprise-level subscriptions to access data on WhiteIntel.
 
+whiteintel.io
+
 ## Overview
 
 The WhiteIntel API offers a variety of endpoints to interact with the WhiteIntel platform. It is currently available only for enterprise-level subscriptions and has specific usage limits:
@@ -28,7 +30,7 @@ Comprehensive documentation for all available endpoints and usage instructions a
 Below is an example of how to make a POST request to the WhiteIntel API using `curl`:
 
 ```sh
-curl -X POST https://api.whiteintel.com/endpoint \
+curl -X POST https://api.whiteintel.io/api/endpoint \
      -H "Content-Type: application/json" \
      -d '{
            "apikey": "your_api_key_here",
