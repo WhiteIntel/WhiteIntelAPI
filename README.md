@@ -8,9 +8,9 @@ whiteintel.io
 
 The WhiteIntel API offers a variety of endpoints to interact with the WhiteIntel platform. It is currently available only for enterprise-level subscriptions and has specific usage limits:
 
-- **Daily Limit**: 200 API calls per day.
-- **Rate Limit**: 5 seconds between each API call.
-- **Password Information**: Requires verification of the target domain via the regular web UI.
+- **Daily Limit**: 500 API calls per day.
+- **Rate Limit**: 2 seconds between each API call.
+- **Password Information**: Requires verification of the target domain via the regular web UI. (TIFirm subscription does not requires any verification)
 
 ## Getting Started
 
